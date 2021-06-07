@@ -16,9 +16,13 @@ def datascience():
     return render_template('data_science_form.html')
 
 
-@app.route('/result')
-def result():
-    return render_template('score.html')
+@app.route('/result_datascience')
+def result_ds():
+    return render_template('result_datascience.html')
+
+@app.route('/result_startup')
+def result_st():
+    return render_template('result_startup.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
