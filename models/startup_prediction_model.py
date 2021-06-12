@@ -23,7 +23,7 @@ df = df.dropna()
 #drop columns which are not needed.
 df.drop(df.columns[[0,3,4,5,6,7,8,9,10,11,12]],axis = 1, inplace = True)
 
-#drop columns which are not needed.
+# creating one hot encoding of the categorical columns.
 data = pd.get_dummies(df, columns =['city', 'category_code', 'has_VC', 'has_angel'])
 
 X = data.iloc[:,1:]
