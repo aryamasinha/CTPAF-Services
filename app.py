@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 from csv import writer
-
+from sklearn.preprocessing import LabelEncoder
 
 with open(f'models_and_datasets/startup_model.pkl', 'rb') as f:
     model = pickle.load(f)
@@ -46,13 +46,13 @@ def result_st():
 
     df = pd.DataFrame([[location, category,vc,angel]],columns=['city', 'category_code', 'has_VC', 'has_angel'])    
     print(df)
-    from sklearn.preprocessing import LabelEncoder
+    
     label_encoder = LabelEncoder()
     df['category_code'] = label_encoder.fit_transform(df['category_code'])
     df['city'] = label_encoder.fit_transform(df['city'])
     print(df)
     predicted_y = model.predict(df)
     print(predicted_y)
-    return render_template('result_startup.html')
+    return render_template('result_startup.html' , data = )
 if __name__ == "__main__":
     app.run(debug=True)
