@@ -52,7 +52,6 @@ def result_st():
     df['city'] = label_encoder.fit_transform(df['city'])
     print(df)
     predicted_y = model.predict(df)
-    print(predicted_y)
-    return render_template('result_startup.html' , data = )
+    return render_template('result_startup.html' , data = predicted_y)
 if __name__ == "__main__":
     app.run(debug=True)
