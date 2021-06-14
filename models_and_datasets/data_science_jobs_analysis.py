@@ -11,7 +11,6 @@ import time
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 from operator import itemgetter
 
 df = pd.read_csv("dataScience_data.csv", index_col=0)
