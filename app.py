@@ -24,8 +24,9 @@ def datascience():
     return render_template('data_science_form.html')
 
 
-@app.route('/result_datascience')
+@app.route('/result_datascience', methods = ['post'])
 def result_ds():
+    print(request.form)
     return render_template('result_datascience.html')
 
 @app.route('/result_startup' , methods = ['post'])
