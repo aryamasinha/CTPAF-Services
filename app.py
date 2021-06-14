@@ -30,8 +30,7 @@ def result_ds():
     d = request.form.to_dict()
     data = d.values()
     score = analysisModel.predict(data)
-    print(score)
-    return render_template('result_datascience.html')
+    return render_template('result_datascience.html',data = score)
 
 @app.route('/result_startup' , methods = ['post'])
 def result_st():
