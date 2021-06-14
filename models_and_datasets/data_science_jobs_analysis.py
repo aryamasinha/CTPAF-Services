@@ -7,29 +7,33 @@ Original file is located at
     https://colab.research.google.com/drive/16ucVf1iRB8BOKBl3OP4FRxECwc1XCaH9
 """
 
-import time
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-from operator import itemgetter
+class analysisModel:
 
-df = pd.read_csv("dataScience_data.csv", index_col=0)
-df = df.dropna()
-df = df.apply(lambda x: x.astype(str).str.lower())
-df['skills'] = df['skills'].apply(lambda x: x.split('\n'))
-df_skills=pd.DataFrame(df.skills.apply(pd.Series).stack().value_counts()).reset_index()
-df_skills.columns=["skills","count"]
-df_skills.head()
-total=df_skills['count'].sum()
-def findweight(row):
-    return (row['count']/total) * 100
+    
 
-df_skills['weightage']=df_skills.apply(lambda row: findweight(row), axis=1)
-weight_dict=dict(zip(df_skills.skills,df_skills.weightage))
-personal_skills=['machine learning','data science','analytics','data mining']
-percent=0
-for i in personal_skills:
-    percent+= weight_dict[i]
 
-score = round(percent)
-print(score)
+    def predict(personal_skills):
+        import time
+        import pandas as pd
+        import matplotlib.pyplot as plt
+        import numpy as np
+        from operator import itemgetter
+        df = pd.read_csv("models_and_datasets/dataScience_data.csv", index_col=0)
+        df = df.dropna()
+        df = df.apply(lambda x: x.astype(str).str.lower())
+        df['skills'] = df['skills'].apply(lambda x: x.split('\n'))
+        df_skills=pd.DataFrame(df.skills.apply(pd.Series).stack().value_counts()).reset_index()
+        df_skills.columns=["skills","count"]
+        df_skills.head()
+        total=df_skills['count'].sum()
+        def findweight(row):
+            return (row['count']/total) * 100
+
+        df_skills['weightage']=df_skills.apply(lambda row: findweight(row), axis=1)
+        weight_dict=dict(zip(df_skills.skills,df_skills.weightage))
+        #personal_skills=['machine learning','data science','analytics','data mining']
+        percent=0
+        for i in personal_skills:
+            percent+= weight_dict[i]
+        score = round(percent)
+        return score

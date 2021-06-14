@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 from csv import writer
 from sklearn.preprocessing import LabelEncoder
+from models_and_datasets.data_science_jobs_analysis import analysisModel
 
 with open(f'models_and_datasets/startup_model.pkl', 'rb') as f:
     model = pickle.load(f)
@@ -26,7 +27,10 @@ def datascience():
 
 @app.route('/result_datascience', methods = ['post'])
 def result_ds():
-    print(request.form)
+    d = request.form.to_dict()
+    data = d.values()
+    score = analysisModel.predict(data)
+    print(score)
     return render_template('result_datascience.html')
 
 @app.route('/result_startup' , methods = ['post'])
