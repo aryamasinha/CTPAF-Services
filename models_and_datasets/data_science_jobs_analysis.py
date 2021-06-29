@@ -24,7 +24,7 @@ class analysisModel:
         df['skills'] = df['skills'].apply(lambda x: x.split('\n'))
         df_skills=pd.DataFrame(df.skills.apply(pd.Series).stack().value_counts()).reset_index()
         df_skills.columns=["skills","count"]
-        df_skills.head()
+        df_skills_relev=df_skills.head(20)
         total=df_skills['count'].sum()
         def findweight(row):
             return (row['count']/total) * 100

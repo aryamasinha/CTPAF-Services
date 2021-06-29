@@ -83,8 +83,34 @@
                 <div class="col-lg-12 mt-12 mt-lg-12" data-aos="fade-up" data-aos-delay="200">
               <center>      
                   <form action="{{url_for('result_st')}}" method="post">
+
                     <div class="form-row">
-                    
+                      <div class="form-group col-md-12">
+                        <label for="name">Founder's name.</label>
+                        <input type="text" name="fname" class="form-control" id="location"/>
+                        <div class="validate"></div>
+                      </div>
+
+                      <div class="form-group col-md-12">
+                        <label for="name">Your age.</label>
+                        <input type="text" name="age" class="form-control" id="location"/>
+                        <div class="validate"></div>
+                      </div>
+
+                      <div class="form-group col-md-12">
+                        <label for="name">Your educational details</label>
+                        <input type="text" name="education" class="form-control" id="location"/>
+                        <div class="validate"></div>
+                      </div>
+
+                      <div class="form-group col-md-12">
+                          <label for="name">Your current job details</label>
+                          <input type="text" name="job" class="form-control" id="location"/>
+                          <div class="validate"></div>
+                        </div>
+
+                       
+
                       <div class="form-group col-md-12">
                         <label for="name">The location of the company.</label>
                         <input type="text" name="location" class="form-control" id="location"/>
@@ -119,6 +145,12 @@
                       <div class="validate"></div>
                     </div>
                    
+                    <div class="form-group col-md-12">
+                        <label for="name">Why would you want to transition to entrepreneurship or startup industry</label>
+                        <input type="text" name="question" class="form-control" id="location"/>
+                        <div class="validate"></div>
+                      </div>
+
                     <div class="text-center"><button value="predict" type="submit" style="color: white; background-color:#eb5d1e; font-size: 20px;border-color: transparent; padding: 1px 10px 1px 10px; border-radius: 5px;">Get Result</button></div>
                     
                   </form>
