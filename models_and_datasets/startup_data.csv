@@ -1,925 +1,924 @@
 ,city,category_code,has_VC,has_angel,status
-0,San Diego,music,0,1,acquired
-1,Los Gatos,enterprise,1,0,acquired
-2,San Diego,web,0,0,acquired
-3,Cupertino,software,0,0,acquired
-4,San Francisco,games_video,1,1,closed
-5,Mountain View,network_hosting,0,0,closed
-6,Mountain View,software,1,0,acquired
-7,San Rafael,finance,0,0,acquired
-8,Williamstown,mobile,1,0,acquired
-9,Palo Alto,web,1,1,acquired
-10,Menlo Park,mobile,0,0,acquired
-11,Menlo Park,web,1,1,closed
-12,Louisville,web,1,0,closed
-13,Brooklyn,education,0,0,acquired
-14,Denver,software,0,0,acquired
-15,Vienna,public_relations,1,0,closed
-16,Los Altos,security,1,0,closed
-17,Burlingame,games_video,0,0,acquired
-18,New York,web,0,1,acquired
-19,Palo Alto,enterprise,0,0,closed
-20,Austin,software,0,1,acquired
-21,Seattle,other,0,0,closed
-22,Palo Alto,web,0,0,closed
-23,San Francisco,mobile,0,1,closed
-24,Boulder,public_relations,0,1,closed
-25,Chicago,software,0,0,acquired
-26,Palo Alto,public_relations,0,0,acquired
-27,Berkeley,photo_video,0,0,acquired
-28,Austin,web,1,0,acquired
-29,Santa Ana,hardware,1,0,acquired
-30,Moffett Field,other,0,0,closed
-31,Seattle,public_relations,1,0,acquired
-32,Durham,software,0,0,closed
-33,San Francisco,mobile,1,0,acquired
-34,Pittsburgh,security,0,1,closed
-35,New York,software,0,0,closed
-36,San Francisco,software,0,0,closed
-37,San Jose,hardware,0,0,closed
-38,San Francisco,ecommerce,0,1,acquired
-39,New York,advertising,1,1,acquired
-40,Atlanta,enterprise,0,0,acquired
-41,Manchester,mobile,0,1,acquired
-42,Menlo Park,travel,1,0,closed
-43,Seattle,enterprise,0,0,acquired
-44,Sunnyvale,advertising,0,0,acquired
-45,Sunnyvale,software,0,0,acquired
-46,New York,fashion,0,1,acquired
-47,Cambridge,software,0,0,acquired
-48,San Francisco,software,0,1,acquired
-49,San Mateo,software,0,0,acquired
-50,South San Francisco,web,0,0,acquired
-51,Boston,mobile,0,0,acquired
-52,Austin,web,0,0,acquired
-53,Waltham,public_relations,1,0,acquired
-54,San Francisco,enterprise,1,1,acquired
-55,Palo Alto,software,1,0,closed
-56,Palo Alto,analytics,1,0,acquired
-57,Aliso Viejo,consulting,0,0,acquired
-58,Sunnyvale,software,0,0,acquired
-59,Kansas City,mobile,0,0,acquired
-60,Wilmington,biotech,0,0,closed
-61,San Francisco,cleantech,0,0,closed
-62,Kirkland,enterprise,1,0,acquired
-63,Tampa,software,1,0,closed
-64,Boston,software,0,0,acquired
-65,Alameda,cleantech,0,0,acquired
-66,Bothell,software,1,0,closed
-67,Boulder,advertising,1,0,acquired
-68,San Mateo,security,0,0,acquired
-69,San Francisco,advertising,0,1,acquired
-70,San Francisco,web,0,0,acquired
-71,Sunnyvale,software,0,1,acquired
-72,Tampa,web,0,1,acquired
-73,San Francisco,advertising,0,0,acquired
-74,Dallas,software,0,0,closed
-75,Fremont,software,1,0,closed
-76,Santa Clara,software,1,0,closed
-77,San Francisco,photo_video,0,1,acquired
-78,New York,games_video,0,0,acquired
-79,Cambridge,mobile,1,1,closed
-80,San Francisco,mobile,0,1,acquired
-81,Princeton,cleantech,0,0,closed
-82,Loveland,cleantech,1,0,closed
-83,Mountain View,search,0,0,acquired
-84,New York,music,0,0,acquired
-85,Kearneysville,software,0,0,closed
-86,Los Angeles,web,0,0,acquired
-87,Canton,cleantech,1,0,closed
-88,Mountain View,ecommerce,1,0,closed
-89,Bellevue,software,0,0,acquired
-90,Santa Clara,semiconductor,1,0,acquired
-91,Washington,advertising,1,0,closed
-92,San Francisco,web,0,1,acquired
-93,San Francisco,analytics,0,0,acquired
-94,New York,finance,0,0,acquired
-95,Mountain View,public_relations,0,0,closed
-96,Chicago,software,1,0,acquired
-97,Somerset,software,1,0,closed
-98,San Francisco,social,0,1,acquired
-99,Berkeley,cleantech,1,0,closed
-100,Alpharetta,software,0,0,closed
-101,Seattle,software,0,0,acquired
-102,Bellevue,software,1,0,acquired
-103,San Jose,security,1,0,acquired
-104,San Francisco,web,0,1,acquired
-105,Charlottesville,web,0,0,closed
-106,Dulles,software,1,0,acquired
-107,Chicago,web,0,1,closed
-108,San Francisco,web,0,1,acquired
-109,Bloomfield,mobile,0,0,closed
-110,Santa Monica,web,0,1,acquired
-111,Santa Clara,network_hosting,0,0,acquired
-112,Milpitas,semiconductor,0,0,closed
-113,Menlo Park,search,0,0,acquired
-114,San Diego,enterprise,1,1,closed
-115,San Francisco,mobile,0,1,acquired
-116,Burlingame,biotech,0,0,closed
-117,Raleigh,network_hosting,1,0,acquired
-118,New York,ecommerce,0,0,acquired
-119,New York,web,0,1,acquired
-120,Somerville,web,0,1,closed
-121,Redwood City,ecommerce,0,0,acquired
-122,Austin,enterprise,0,1,closed
-123,New York,photo_video,1,0,acquired
-124,Fremont,cleantech,1,0,acquired
-125,Waltham,biotech,0,0,acquired
-126,Timonium,web,1,0,acquired
-127,Pittsburgh,advertising,1,1,closed
-128,Reston,mobile,1,0,closed
-129,Fremont,semiconductor,1,0,acquired
-130,New York,web,1,0,acquired
-131,Chicago,games_video,0,1,closed
-132,Santa Clara,software,0,0,acquired
-133,Palo Alto,network_hosting,1,0,acquired
-134,Cincinnati,web,0,1,closed
-135,Atlanta,mobile,1,0,acquired
-136,San Jose,hardware,0,0,closed
-137,Cambridge,biotech,0,0,acquired
-138,San Mateo,advertising,1,1,acquired
-139,San Francisco,network_hosting,0,0,closed
-140,Campbell,analytics,1,0,acquired
-141,San Francisco,software,0,0,acquired
-142,New York,games_video,0,0,closed
-143,Santa Clara,mobile,0,0,acquired
-144,Sterling,web,0,0,acquired
-145,San Francisco,software,0,0,acquired
-146,San Francisco,games_video,0,0,acquired
-147,New York,software,1,0,acquired
-148,San Mateo,analytics,1,0,acquired
-149,Foster City,web,0,0,acquired
-150,Atlanta,semiconductor,1,0,closed
-151,Los Angeles,web,0,0,closed
-152,Oakland,web,0,1,closed
-153,Fremont,mobile,0,0,acquired
-154,Petaluma,mobile,1,0,closed
-155,San Francisco,web,0,1,acquired
-156,Chicago,software,0,0,acquired
-157,Boston,web,0,1,acquired
-158,Sunnyvale,web,0,0,closed
-159,Arlington,web,0,1,closed
-160,Seattle,network_hosting,0,0,acquired
-161,Centennial,finance,1,0,closed
-162,Chicago,biotech,1,0,closed
-163,San Mateo,enterprise,1,0,acquired
-164,San Jose,software,0,0,closed
-165,Austin,network_hosting,0,0,acquired
-166,San Francisco,advertising,1,0,acquired
-167,Memphis,web,0,1,closed
-168,New York,mobile,1,1,acquired
-169,Burlingame,games_video,1,0,acquired
-170,New York,web,1,0,acquired
-171,New York,social,1,1,closed
-172,Cambridge,mobile,0,1,acquired
-173,Plymouth,medical,1,0,acquired
-174,San Francisco,software,1,0,acquired
-175,Austin,enterprise,0,0,closed
-176,Seattle,enterprise,1,1,closed
-177,San Francisco,photo_video,1,0,closed
-178,Conshohocken,ecommerce,1,0,acquired
-179,Needham,software,0,0,closed
-180,Newport Beach,advertising,1,0,closed
-181,Austin,web,0,0,acquired
-182,Longmont,network_hosting,1,0,acquired
-183,Redwood City,software,0,0,acquired
-184,New York,mobile,0,1,closed
-185,San Francisco,mobile,1,0,closed
-186,Naperville,enterprise,0,1,acquired
-187,Pasadena,web,0,0,acquired
-188,San Jose,enterprise,1,0,acquired
-189,San Francisco,automotive,0,0,acquired
-190,Waltham,software,1,0,acquired
-191,San Francisco,games_video,0,0,acquired
-192,Milpitas,software,0,0,closed
-193,San Francisco,web,0,0,acquired
-194,San Francisco,web,0,1,acquired
-195,San Diego,games_video,0,0,acquired
-196,Boston,advertising,0,1,acquired
-197,Mountain View,hardware,0,0,closed
-198,Pittsburgh,medical,1,0,closed
-199,San Mateo,software,0,0,acquired
-200,Santa Monica,mobile,0,0,acquired
-201,Warrenville,web,0,0,closed
-202,Raleigh,enterprise,0,0,closed
-203,Berwyn,enterprise,0,1,acquired
-204,Sunnyvale,advertising,0,0,closed
-205,San Francisco,web,0,1,acquired
-206,San Francisco,web,0,1,closed
-207,Morgan Hill,public_relations,0,1,closed
-208,Mountain View,advertising,1,0,acquired
-209,Austin,semiconductor,1,0,closed
-210,Marlborough,software,0,0,acquired
-211,San Francisco,advertising,0,1,acquired
-212,San Francisco,analytics,0,1,acquired
-213,Atlanta,software,1,1,closed
-214,New York,biotech,1,0,closed
-215,San Jose,semiconductor,1,0,acquired
-216,Playa Vista,software,0,0,closed
-217,San Francisco,web,0,0,acquired
-218,Cupertino,messaging,0,0,acquired
-219,New York,advertising,0,0,acquired
-220,Providence,advertising,0,1,acquired
-221,Washington,software,1,0,acquired
-222,San Francisco,ecommerce,0,0,closed
-223,San Francisco,cleantech,0,1,closed
-224,San Francisco,enterprise,0,0,closed
-225,Seattle,network_hosting,0,1,closed
-226,Mountain View,biotech,0,0,acquired
-227,New York,ecommerce,0,0,acquired
-228,Redwood City,advertising,1,0,acquired
-229,Monterey Park,cleantech,0,0,acquired
-230,Plano,semiconductor,0,0,closed
-231,Mountain View,enterprise,0,0,acquired
-232,Austin,software,0,0,acquired
-233,Pasadena,software,1,0,acquired
-234,Fremont,mobile,0,0,acquired
-235,Bingham Farms,advertising,1,0,closed
-236,San Jose,advertising,0,0,acquired
-237,Chicago,web,1,0,closed
-238,New York,web,0,0,acquired
-239,Philadelphia,advertising,0,1,acquired
-240,Mountain View,enterprise,1,0,closed
-241,Freedom,software,0,0,closed
-242,Boston,network_hosting,0,0,closed
-243,Cambridge,advertising,0,0,acquired
-244,San Francisco,network_hosting,0,1,acquired
-245,Austin,mobile,1,0,closed
-246,Seattle,security,0,1,acquired
-247,Bethesda,enterprise,0,0,acquired
-248,Portland,enterprise,1,1,acquired
-249,New York,web,0,1,acquired
-250,Allentown,cleantech,0,0,closed
-251,New York,mobile,1,1,acquired
-252,North Billerica,semiconductor,1,0,acquired
-253,Los Angeles,games_video,0,1,closed
-254,Denver,mobile,0,0,acquired
-255,Duluth,biotech,1,0,closed
-256,Mountain View,biotech,0,0,acquired
-257,Providence,enterprise,0,1,acquired
-258,San Francisco,finance,0,0,closed
-259,San Francisco,games_video,0,1,acquired
-260,Waltham,software,1,0,acquired
-261,Boxborough,security,0,0,acquired
-262,Redwood City,public_relations,0,0,closed
-263,Salt Lake City,other,1,0,closed
-264,The Woodlands,cleantech,0,0,closed
-265,Palo Alto,software,0,0,acquired
-266,Austin,enterprise,0,0,acquired
-267,Mountain View,search,0,0,acquired
-268,San Francisco,advertising,0,0,acquired
-269,San Francisco,mobile,0,0,acquired
-270,Burlington,software,0,0,closed
-271,Seattle,mobile,1,0,acquired
-272,San Francisco,web,0,1,acquired
-273,San Francisco,hardware,1,1,acquired
-274,Alameda,enterprise,1,0,acquired
-275,Durham,analytics,0,1,closed
-276,New York,analytics,0,1,acquired
-277,Redwood City,biotech,1,0,acquired
-278,San Mateo,web,0,1,closed
-279,Needham,software,1,0,acquired
-280,Weston,social,0,1,closed
-281,Palo Alto,software,0,0,acquired
-282,San Francisco,advertising,0,0,acquired
-283,Santa Barbara,games_video,0,1,closed
-284,Palo Alto,public_relations,0,1,closed
-285,Los Angeles,mobile,1,0,closed
-286,Santa Monica,web,0,1,acquired
-287,Mountain View,web,0,0,acquired
-288,Santa Clara,hardware,1,0,closed
-289,San Francisco,messaging,0,0,acquired
-290,Mountain View,hardware,1,0,closed
-291,Columbia,biotech,0,0,acquired
-292,Mountain View,games_video,0,0,closed
-293,SPOKANE,hardware,1,0,closed
-294,Burlington,web,1,0,closed
-295,Seattle,software,0,0,closed
-296,Cambridge,mobile,1,0,acquired
-297,Maynard,enterprise,0,0,acquired
-298,Frederick,public_relations,0,0,closed
-299,Fremont,cleantech,0,0,closed
-300,Austin,mobile,0,1,closed
-301,Sunnyvale,web,0,1,closed
-302,New York,games_video,0,1,acquired
-303,San Francisco,ecommerce,0,0,acquired
-304,Palo Alto,web,0,0,closed
-305,San Diego,mobile,0,0,acquired
-306,West Newfield,manufacturing,0,0,closed
-307,New York,hospitality,0,1,acquired
-308,San Francisco,news,0,0,acquired
-309,Long Island City,music,1,0,acquired
-310,Redwood City,hardware,1,0,acquired
-311,San Francisco,games_video,0,0,acquired
-312,San Francisco,search,1,0,acquired
-313,San Francisco,advertising,0,1,acquired
-314,Seattle,web,1,0,closed
-315,Bellevue,software,0,0,acquired
-316,NY,web,0,1,closed
-317,Menlo Park,mobile,0,0,acquired
-318,Englewood,security,0,0,acquired
-319,Solana Beach,games_video,1,0,acquired
-320,New York,web,0,0,acquired
-321,San Francisco,finance,0,0,acquired
-322,NW Atlanta,transportation,1,0,acquired
-323,San Francisco,sports,0,1,acquired
-324,San Francisco,finance,1,0,acquired
-325,Bala Cynwyd,games_video,0,1,closed
-326,San Bruno,cleantech,0,0,closed
-327,San Francisco,mobile,0,0,closed
-328,San Francisco,music,1,1,acquired
-329,Evanston,software,0,0,closed
-330,Mountain View,enterprise,0,0,acquired
-331,Carlsbad,automotive,1,0,closed
-332,San Francisco,real_estate,1,0,acquired
-333,San Diego,hardware,0,0,closed
-334,Cupertino,network_hosting,0,0,acquired
-335,West Hollywood,web,0,0,acquired
-336,San Franciso,network_hosting,0,1,closed
-337,New York,web,0,1,acquired
-338,New York,enterprise,1,0,acquired
-339,San Francisco,advertising,0,0,acquired
-340,Mountain View,games_video,0,0,acquired
-341,Burlington,enterprise,0,0,acquired
-342,Austin,enterprise,1,0,acquired
-343,San Diego,biotech,1,0,acquired
-344,Palo Alto,software,0,0,closed
-345,New York,web,0,1,closed
-346,San Francisco,games_video,1,0,closed
-347,New York,web,0,1,closed
-348,Santa Monica,network_hosting,0,1,acquired
-349,Richardson,semiconductor,0,0,acquired
-350,Zeeland,web,0,1,closed
-351,Herndon,mobile,0,1,acquired
-352,Paramus,biotech,1,0,acquired
-353,Pittsburgh,enterprise,1,0,closed
-354,Palo Alto,advertising,0,0,acquired
-355,San Francisco,travel,0,1,acquired
-356,New York,software,1,1,acquired
-357,Minneapolis,enterprise,0,0,acquired
-358,Boston,mobile,1,0,acquired
-359,San Jose,mobile,1,0,acquired
-360,Durham,software,1,0,acquired
-361,San Francisco,enterprise,0,0,closed
-362,New York,software,0,0,acquired
-363,San Francisco,mobile,0,1,acquired
-364,Kirkland,mobile,0,0,acquired
-365,Addison,security,0,0,acquired
-366,New York,fashion,0,0,acquired
-367,Mountain View,advertising,0,0,acquired
-368,Irvine,social,0,1,acquired
-369,Woburn,software,0,0,closed
-370,New York,enterprise,0,0,acquired
-371,Burlington,software,0,0,acquired
-372,Boston,web,0,1,acquired
-373,New York City,social,0,0,acquired
-374,Larkspur,mobile,1,0,acquired
-375,Los Angeles,ecommerce,0,1,closed
-376,Seattle,education,1,0,acquired
-377,San Bruno,hardware,0,0,acquired
-378,San Francisco,software,0,0,acquired
-379,Boston,mobile,0,0,acquired
-380,New York,advertising,1,0,acquired
-381,Redwood City,network_hosting,0,1,acquired
-382,San Francisco,web,0,1,acquired
-383,Irvine,semiconductor,1,0,acquired
-384,Santa Monica,fashion,1,0,acquired
-385,New York,advertising,0,1,acquired
-386,Palo Alto,mobile,0,0,acquired
-387,Waltham,software,1,0,closed
-388,Santa Clara,semiconductor,1,0,closed
-389,Waltham,search,0,0,acquired
-390,Henderson,analytics,1,0,closed
-391,Boston,consulting,1,0,acquired
-392,McLean,software,0,0,acquired
-393,San Jose,biotech,0,0,acquired
-394,Santa Clara,software,1,0,acquired
-395,Palo Alto,web,0,1,acquired
-396,Santa Clara,software,1,0,acquired
-397,New York,web,0,0,acquired
-398,Mountain View,enterprise,0,0,acquired
-399,Burlingame,network_hosting,1,1,acquired
-400,Lowell,web,0,0,acquired
-401,Santa Monica,mobile,0,0,closed
-402,Bellevue,software,1,0,closed
-403,Woodbury,public_relations,0,0,acquired
-404,Santa Clara,mobile,1,0,acquired
-405,San Francisco,software,0,1,acquired
-406,New York,enterprise,1,0,closed
-407,New York,news,1,0,acquired
-408,Mountain View,security,0,0,acquired
-409,Littleton,software,1,0,acquired
-410,Los Angeles,messaging,0,1,closed
-411,Glendale,ecommerce,1,0,closed
-412,Austin,analytics,0,0,acquired
-413,Chicago,web,0,0,acquired
-414,New York,web,0,1,acquired
-415,San Francisco,games_video,0,1,acquired
-416,New York,mobile,0,1,acquired
-417,New York,games_video,0,0,closed
-418,San Francisco,security,1,0,acquired
-419,Billerica,other,0,0,acquired
-420,San Diego,mobile,1,1,closed
-421,New York,software,0,1,acquired
-422,Seattle,web,1,0,closed
-423,Los Gatos,web,0,0,closed
-424,Broomfield,software,1,0,acquired
-425,Foster City,web,0,0,closed
-426,Mountain View,mobile,1,1,closed
-427,Portland,mobile,0,0,acquired
-428,New York,advertising,0,0,acquired
-429,Boston,search,0,0,acquired
-430,Austin,web,0,0,acquired
-431,Beverly Hills,web,0,1,closed
-432,Hartford,network_hosting,0,0,closed
-433,Greenwood Village,software,1,0,acquired
-434,Seattle,games_video,0,1,closed
-435,College Park,biotech,1,0,closed
-436,New York,messaging,0,1,acquired
-437,Los Angeles,fashion,0,0,acquired
-438,Addison,software,1,0,closed
-439,Napa,software,1,0,closed
-440,San Francisco,web,0,1,acquired
-441,New York,network_hosting,1,0,acquired
-442,San Francisco,network_hosting,0,0,acquired
-443,Mountain View,web,0,0,acquired
-444,Itasca,security,1,0,acquired
-445,Cambridge,ecommerce,1,0,acquired
-446,Lexington,software,0,0,acquired
-447,Santa Clara,semiconductor,0,0,acquired
-448,Waltham,advertising,0,0,acquired
-449,Irvine,enterprise,1,0,acquired
-450,Palo Alto,software,1,0,closed
-451,Tampa,software,0,0,acquired
-452,New York,games_video,0,0,acquired
-453,San Francisco,mobile,1,1,closed
-454,Foster City,software,0,0,acquired
-455,San Francisco,web,0,0,acquired
-456,New York,advertising,0,1,closed
-457,New York,music,0,0,acquired
-458,Seattle,web,1,0,acquired
-459,Santa Monica,web,0,0,acquired
-460,San Francisco,web,0,1,closed
-461,Redwood City,mobile,1,0,acquired
-462,San Mateo,web,0,0,closed
-463,San Francisco,software,0,0,acquired
-464,Austin,hardware,0,0,closed
-465,Calabasas,games_video,1,0,acquired
-466,San Francisco,messaging,0,0,acquired
-467,New York,mobile,0,1,closed
-468,Cincinnati,fashion,0,1,closed
-469,North Reading,hardware,0,0,acquired
-470,Mountain View,web,0,0,acquired
-471,Cincinnati,advertising,0,0,closed
-472,Los Angeles,social,0,0,closed
-473,Burlingame,social,1,1,acquired
-474,San Francisco,enterprise,0,0,acquired
-475,Boston,web,0,1,acquired
-476,Richardson,public_relations,0,0,acquired
-477,Lindon,web,0,0,acquired
-478,Los Angeles,software,0,0,closed
-479,Albuquerque,cleantech,0,0,closed
-480,Red Bank,software,0,1,closed
-481,Palo Alto,software,0,0,acquired
-482,Boston,software,0,1,acquired
-483,Palo Alto,security,0,0,acquired
-484,Bethlehem,semiconductor,1,0,acquired
-485,Sunnyvale,mobile,0,0,closed
-486,Santa Clara,hardware,0,0,acquired
-487,Saint Louis,network_hosting,0,1,closed
-488,Sunnyvale,web,0,0,acquired
-489,Palo Alto,web,0,0,closed
-490,San Bruno,games_video,0,0,acquired
-491,New York City,mobile,0,0,closed
-492,New York,ecommerce,0,1,closed
-493,Austin,search,0,0,closed
-494,Brooklyn,web,0,1,closed
-495,Philadelphia,biotech,0,1,acquired
-496,Los Angeles,messaging,0,1,closed
-497,Indianapolis,software,1,0,acquired
-498,Burlington,medical,1,0,acquired
-499,Palo Alto,games_video,0,1,acquired
-500,San Mateo,enterprise,1,0,acquired
-501,Menlo Park,web,1,0,closed
-502,New Hope,web,0,0,acquired
-503,Englewood,web,1,0,acquired
-504,Los Angeles,software,0,0,closed
-505,San Mateo,network_hosting,0,0,closed
-506,New York,advertising,0,1,acquired
-507,Petaluma,semiconductor,1,0,acquired
-508,Redwood City,mobile,1,0,acquired
-509,North Hollywood,web,1,0,acquired
-510,Waco,software,0,1,closed
-511,Santa Clara,public_relations,0,0,closed
-512,Boulder,network_hosting,0,1,acquired
-513,New York,web,0,0,acquired
-514,Carpinteria,advertising,0,0,acquired
-515,Menlo Park,search,0,0,closed
-516,Mountain View,web,1,0,acquired
-517,Menlo Park,web,0,1,acquired
-518,Mountain View,advertising,0,0,acquired
-519,Chicago,ecommerce,0,1,acquired
-520,New York City,travel,0,1,acquired
-521,Mountain View,web,1,0,acquired
-522,West Chester,biotech,1,0,closed
-523,San Francisco,software,1,1,acquired
-524,Nashville,web,0,1,acquired
-525,Sunnyvale,software,0,0,acquired
-526,New York,social,0,0,acquired
-527,Bedford,hardware,0,0,closed
-528,Belmont,games_video,0,0,acquired
-529,Nashville,photo_video,0,0,acquired
-530,San Francisco,web,0,0,acquired
-531,Puyallup,advertising,0,1,closed
-532,San Mateo,software,0,1,acquired
-533,San Francisco,software,1,0,acquired
-534,Boxborough,software,0,0,closed
-535,Sunnyvale,hardware,0,0,closed
-536,Seattle,web,0,0,closed
-537,Santa Monica,games_video,0,0,acquired
-538,San Mateo,software,0,0,acquired
-539,San Mateo,software,0,0,acquired
-540,Santa Clara,games_video,1,0,acquired
-541,Chevy Chase,software,0,0,acquired
-542,San Mateo,games_video,0,0,closed
-543,Palo Alto,enterprise,0,0,acquired
-544,Bellevue,games_video,1,0,closed
-545,Sunnyvale,network_hosting,0,0,acquired
-546,Calabasas,semiconductor,1,0,acquired
-547,San Francisco,analytics,0,1,acquired
-548,Louisville,software,1,0,acquired
-549,Woburn,mobile,0,0,acquired
-550,Menlo Park,biotech,0,0,closed
-551,Menlo Park,software,1,0,acquired
-552,Campbell,web,0,1,acquired
-553,New York,analytics,0,0,acquired
-554,Palo Alto,other,0,0,closed
-555,Palo Alto,games_video,0,0,acquired
-556,Boxborough,enterprise,0,0,acquired
-557,San Francisco,analytics,0,0,acquired
-558,New York,advertising,0,1,closed
-559,Atlanta,software,0,0,acquired
-560,San Francisco,advertising,0,0,acquired
-561,San Francisco,advertising,1,0,closed
-562,Cambridge,enterprise,0,1,acquired
-563,San Mateo,web,0,0,closed
-564,Mountain View,software,1,0,closed
-565,New York,web,0,1,acquired
-566,Lexington,software,0,1,acquired
-567,Menlo Park,enterprise,0,0,acquired
-568,Chantilly,software,0,0,closed
-569,Palo Alto,mobile,1,1,closed
-570,Waltham,software,0,0,acquired
-571,Santa Clara,software,1,0,closed
-572,Santa Clara,semiconductor,1,0,acquired
-573,McLean,mobile,1,0,acquired
-574,Lake Oswego,software,0,0,acquired
-575,New York,games_video,1,0,acquired
-576,Allentown,public_relations,0,0,closed
-577,Tewksbury,software,0,0,acquired
-578,Redwood City,advertising,0,0,closed
-579,Austin,security,1,0,acquired
-580,Santa Clara,biotech,0,0,acquired
-581,Dedham,enterprise,1,0,acquired
-582,Cupertino,public_relations,0,0,acquired
-583,Sunnyvale,enterprise,0,0,acquired
-584,Boston,web,1,0,closed
-585,Lawrenceville,ecommerce,0,1,closed
-586,Jersey City,ecommerce,0,0,acquired
-587,NYC,web,0,1,closed
-588,Annapolis,network_hosting,0,0,acquired
-589,Mountain View,search,0,0,closed
-590,San Francisco,enterprise,0,0,acquired
-591,Mountain View,web,1,0,acquired
-592,Austin,software,0,0,acquired
-593,San Jose,hardware,1,0,closed
-594,Mountain View,mobile,0,0,acquired
-595,Santa Clara,enterprise,0,0,acquired
-596,Washington,enterprise,1,0,acquired
-597,New York,social,0,1,closed
-598,Campbell,biotech,0,0,acquired
-599,Burlington,software,1,0,acquired
-600,Las Vegas,news,0,1,acquired
-601,Santa Clara,software,0,0,closed
-602,New York,advertising,1,0,acquired
-603,San Francisco,web,0,1,closed
-604,Richardson,public_relations,1,0,acquired
-605,Sunnyvale,software,1,0,acquired
-606,Andover,software,1,0,closed
-607,Los Altos,web,0,0,acquired
-608,Minnetonka,web,0,1,acquired
-609,Mountain View,mobile,0,1,closed
-610,Mountain View,web,0,0,acquired
-611,San Diego,network_hosting,1,0,closed
-612,Mountain View,software,1,0,acquired
-613,New York,photo_video,1,1,closed
-614,San Francisco,web,1,1,acquired
-615,Cupertino,enterprise,0,0,acquired
-616,Redwood City,enterprise,0,1,acquired
-617,Los Angeles,search,0,0,closed
-618,Vancouver,web,0,1,closed
-619,South San Francisco,biotech,0,0,acquired
-620,Waltham,software,1,0,closed
-621,Lexington,public_relations,0,0,acquired
-622,Pleasanton,biotech,0,0,acquired
-623,Santa Clara,software,0,0,acquired
-624,New York,advertising,0,0,acquired
-625,El Segundo,public_relations,0,0,closed
-626,Farmington,messaging,0,0,closed
-627,Sunnyvale,hardware,0,0,acquired
-628,New York,games_video,0,0,acquired
-629,New York,games_video,0,0,closed
-630,San Jose,messaging,0,1,closed
-631,New York,fashion,0,0,closed
-632,Mountain View,security,0,0,closed
-633,San Diego,enterprise,1,0,closed
-634,Seattle,ecommerce,0,0,closed
-635,San Francisco,software,0,0,closed
-636,Austin,semiconductor,0,0,acquired
-637,Englewood,semiconductor,1,0,closed
-638,Los Angeles,games_video,0,0,acquired
-639,Menlo Park,semiconductor,1,0,closed
-640,San Bruno,software,0,0,acquired
-641,Tampa,software,0,1,closed
-642,Marlborough,other,0,0,acquired
-643,Nashua,software,1,1,closed
-644,Mountain View,mobile,0,1,acquired
-645,Cupertino,public_relations,0,0,acquired
-646,San Francisco,enterprise,0,1,acquired
-647,Boulder,enterprise,1,1,acquired
-648,Seattle,web,0,0,acquired
-649,San Francisco,web,0,0,acquired
-650,Saint Paul,medical,1,0,closed
-651,Philadelphia,software,1,0,closed
-652,Pleasanton,network_hosting,0,0,acquired
-653,San Diego,web,0,0,acquired
-654,Burlington,software,1,0,acquired
-655,Sunnnyvale,biotech,0,0,acquired
-656,San Mateo,security,0,0,acquired
-657,San Francisco,advertising,0,0,acquired
-658,Champaign,social,0,1,closed
-659,Santa Clara,other,0,0,closed
-660,Golden Valley,enterprise,1,0,closed
-661,Pittsboro,biotech,1,0,closed
-662,Cambridge,biotech,1,0,acquired
-663,Seattle,network_hosting,0,0,closed
-664,Cambridge,mobile,0,0,acquired
-665,Burlington,software,0,0,acquired
-666,Menlo Park,search,0,0,closed
-667,San Francisco,web,0,0,acquired
-668,New York,web,0,1,acquired
-669,Brisbane,biotech,1,0,acquired
-670,New York,education,0,1,acquired
-671,Seattle,mobile,1,0,acquired
-672,San Francisco,enterprise,0,0,acquired
-673,Menlo Park,biotech,1,0,closed
-674,Westford,software,0,0,acquired
-675,Raleigh,software,1,0,closed
-676,Menlo Park,games_video,0,0,closed
-677,Waltham,advertising,0,0,acquired
-678,Palo Alto,web,1,0,acquired
-679,San Francisco,public_relations,0,1,closed
-680,Billerica,semiconductor,0,0,acquired
-681,NY,games_video,0,1,acquired
-682,Chicago,mobile,1,0,closed
-683,Woburn,web,0,0,acquired
-684,Campbell,semiconductor,0,0,acquired
-685,New York,fashion,0,0,acquired
-686,San Francisco,hardware,1,0,closed
-687,Brooklyn,hardware,1,0,acquired
-688,New York,advertising,1,0,acquired
-689,Brooklyn,travel,0,1,acquired
-690,Chicago,ecommerce,1,1,closed
-691,Austin,games_video,1,0,closed
-692,San Jose,software,0,0,acquired
-693,Emeryville,enterprise,1,0,acquired
-694,San Jose,cleantech,1,0,closed
-695,Mountain View,enterprise,0,0,acquired
-696,San Francisco,social,0,1,acquired
-697,Austin,software,0,0,closed
-698,New York,software,0,1,acquired
-699,Mountain View,mobile,0,0,acquired
-700,San Jose,medical,0,0,acquired
-701,Richardson,software,0,0,closed
-702,Washington,social,0,1,closed
-703,Waltham,advertising,0,1,closed
-704,Fremont,medical,0,0,closed
-705,Campbell,advertising,0,0,closed
-706,Burlington,software,1,0,closed
-707,San Francisco,advertising,0,0,closed
-708,Atlanta,cleantech,1,0,acquired
-709,San Francisco,web,0,0,acquired
-710,Hollywood,real_estate,0,1,closed
-711,Los Angeles,web,0,0,closed
-712,Viena,mobile,1,1,closed
-713,Austin,cleantech,1,0,closed
-714,Campbell,network_hosting,1,0,acquired
-715,Hillsborough,analytics,0,1,closed
-716,Potomac Falls,search,0,1,acquired
-717,Atlanta,enterprise,1,0,acquired
-718,San Mateo,enterprise,1,1,closed
-719,Santa Barbara,hardware,0,0,closed
-720,Austin,health,1,0,acquired
-721,San Francisco,web,0,0,closed
-722,Tempe,advertising,0,0,acquired
-723,Cambridge,health,1,0,acquired
-724,Tualatin,semiconductor,0,0,closed
-725,Cambridge,biotech,0,0,acquired
-726,Chicago,software,0,0,acquired
-727,Milpitas,enterprise,1,0,acquired
-728,Redwood City,biotech,0,0,acquired
-729,Mountain View,enterprise,0,1,acquired
-730,Framingham,security,0,0,acquired
-731,Rye Brook,ecommerce,1,0,closed
-732,Redmond,photo_video,0,0,acquired
-733,San Mateo,software,0,1,acquired
-734,Brooklyn,social,0,0,acquired
-735,Seattle,ecommerce,1,0,closed
-736,Yardley,games_video,1,0,closed
-737,Mountain View,news,0,1,acquired
-738,Carlsbad,ecommerce,0,1,closed
-739,Santa Monica,enterprise,1,0,acquired
-740,San Francisco,web,0,1,acquired
-741,San Francisco,ecommerce,0,0,closed
-742,San Rafael,cleantech,0,0,acquired
-743,Hollywood,real_estate,0,1,closed
-744,Berkeley,music,1,1,acquired
-745,Pasadena,web,1,0,closed
-746,New York,travel,0,0,acquired
-747,San Jose,security,0,0,acquired
-748,New York,fashion,0,0,closed
-749,San Diego,semiconductor,1,0,closed
-750,Portland,network_hosting,0,0,acquired
-751,San Francisco,web,0,1,acquired
-752,Cambridge,ecommerce,1,1,acquired
-753,Sunnyvale,software,0,0,acquired
-754,Kenmore,web,0,1,closed
-755,Laguna Niguel,semiconductor,1,0,acquired
-756,Mountain View,software,0,0,acquired
-757,Mountain View,software,0,0,closed
-758,La Jolla,web,0,1,closed
-759,Redwood City,enterprise,0,1,acquired
-760,Austin,enterprise,0,1,acquired
-761,San Francisco,mobile,1,0,closed
-762,San Francisco,advertising,0,1,acquired
-763,San Francisco,web,0,1,acquired
-764,Addison,enterprise,1,0,acquired
-765,Mountain View,travel,0,1,acquired
-766,New York,games_video,1,0,acquired
-767,Pleasanton,games_video,0,0,acquired
-768,San Diego,biotech,0,0,acquired
-769,New York,news,0,0,acquired
-770,New York,web,0,1,acquired
-771,Cleveland,other,1,0,closed
-772,Indianapolis,public_relations,1,0,closed
-773,Cambridge,web,1,0,acquired
-774,Emeryville,analytics,0,0,acquired
-775,Mountain View,semiconductor,0,0,acquired
-776,San Francisco,web,0,0,acquired
-777,San Mateo,advertising,0,0,acquired
-778,Lancaster,mobile,1,1,closed
-779,Seattle,travel,1,0,acquired
-780,San Jose,hardware,1,0,closed
-781,Thousand Oaks,hardware,1,0,acquired
-782,Provo,enterprise,0,1,closed
-783,Palo Alto,other,0,0,closed
-784,New York,software,0,1,acquired
-785,New York,games_video,0,1,closed
-786,Los Gatos,semiconductor,1,0,acquired
-787,Columbus,ecommerce,0,1,closed
-788,Pasadena,health,0,1,acquired
-789,Portland,enterprise,0,0,acquired
-790,San Francisco,web,0,0,acquired
-791,Redmond,web,0,1,closed
-792,San Francisco,games_video,0,1,closed
-793,Foster City,software,0,0,acquired
-794,San Francisco,advertising,0,1,acquired
-795,New York,ecommerce,0,0,acquired
-796,Denver,web,1,0,acquired
-797,Cupertino,enterprise,0,0,acquired
-798,Sunnyvale,semiconductor,0,0,acquired
-799,Mountain View,web,1,0,acquired
-800,Arcadia,hardware,1,0,acquired
-801,San Mateo,web,0,0,closed
-802,Bellevue,network_hosting,0,0,acquired
-803,Redwood City,advertising,0,0,closed
-804,Brisbane,biotech,1,0,acquired
-805,New York,games_video,0,0,closed
-806,Sunnyvale,software,0,1,acquired
-807,Palo Alto,software,0,0,acquired
-808,Yorba Linda,manufacturing,0,0,closed
-809,Sunnyvale,software,1,0,acquired
-810,New York,mobile,1,1,acquired
-811,Campbell,semiconductor,1,0,acquired
-812,Palo Alto,transportation,0,0,acquired
-813,San Carlos,analytics,0,1,acquired
-814,Los Angeles,games_video,0,1,closed
-815,Palo Alto,software,0,1,acquired
-816,San Francisco,web,0,0,acquired
-817,San Francisco,cleantech,0,0,acquired
-818,Seattle,enterprise,0,0,acquired
-819,Bellevue,mobile,0,0,acquired
-820,Acton,network_hosting,0,0,acquired
-821,Dallas,network_hosting,1,0,acquired
-822,Palo Alto,games_video,0,1,acquired
-823,Newton,web,0,0,closed
-824,Tempe,semiconductor,0,0,closed
-825,Sunnyvale,medical,0,0,acquired
-826,Santa Clara,hardware,0,0,closed
-827,Toledo,ecommerce,0,1,closed
-828,Seattle,news,1,0,acquired
-829,Carlsbad,semiconductor,0,0,closed
-830,San Francisco,enterprise,0,1,acquired
-831,New York,enterprise,1,0,closed
-832,Fremont,cleantech,1,0,acquired
-833,Austin,messaging,0,1,acquired
-834,San Mateo,software,1,0,acquired
-835,Santa Clara,software,0,0,closed
-836,San Mateo,software,0,0,acquired
-837,San Mateo,software,1,0,closed
-838,San Mateo,analytics,0,0,acquired
-839,Torrance,public_relations,0,1,closed
-840,San Francisco,web,1,0,acquired
-841,Santa Monica,advertising,0,1,acquired
-842,Altamonte Springs,enterprise,0,1,closed
-843,Westport,web,0,1,closed
-844,Seattle,enterprise,0,1,acquired
-845,Palo Alto,web,0,0,acquired
-846,Seattle,network_hosting,0,0,acquired
-847,Providence,mobile,0,1,closed
-848,New York,enterprise,0,0,acquired
-849,Chelmsford,network_hosting,1,0,acquired
-850,San Francisco,news,0,1,acquired
-851,San Francisco,games_video,0,1,closed
-852,Boulder,enterprise,1,0,acquired
-853,Chicago,travel,1,1,acquired
-854,San Francisco,messaging,0,1,acquired
-855,Palo Alto,software,1,0,acquired
-856,New York,messaging,0,1,acquired
-857,San Francisco,advertising,0,1,closed
-858,Santa Clara,software,0,0,closed
-859,Austin,public_relations,0,0,acquired
-860,"El Segundo,",semiconductor,1,0,acquired
-861,San Mateo,software,1,0,acquired
-862,Hampton,semiconductor,0,0,acquired
-863,Idaho Falls,mobile,0,0,closed
-864,San Diego,cleantech,1,0,acquired
-865,San Francisco,cleantech,0,0,acquired
-866,Mountain View,advertising,1,0,acquired
-867,San Francisco,analytics,1,0,acquired
-868,Burlington,public_relations,1,0,closed
-869,Menlo Park,analytics,1,0,acquired
-870,Acton,mobile,1,0,acquired
-871,Mountain View,biotech,0,0,acquired
-872,Campbell,mobile,0,0,acquired
-873,Campbell,mobile,0,0,acquired
-874,New York,mobile,1,0,closed
-875,Cambridge,analytics,0,1,acquired
-876,San Jose,hardware,1,0,closed
-877,Palo Alto,web,0,1,acquired
-878,Scotts Valley,semiconductor,1,0,acquired
-879,La Jolla,mobile,1,0,acquired
-880,El Segundo,games_video,0,0,acquired
-881,San Francisco,mobile,0,1,acquired
-882,Addison,consulting,1,0,closed
-883,San Francisco,web,1,0,acquired
-884,McLean,web,0,0,acquired
-885,Avon,other,0,0,closed
-886,Aliso Viejo,games_video,0,0,acquired
-887,San Francisco,news,1,0,closed
-888,Portland,hardware,0,0,acquired
-889,Sunnyvale,software,0,0,acquired
-890,Palo Alto,software,1,0,acquired
-891,San Francisco,web,0,1,closed
-892,Little Rock,software,1,0,closed
-893,New York,web,0,0,acquired
-894,Cambridge,advertising,0,1,acquired
-895,Waltham,software,1,0,acquired
-896,New York,games_video,0,1,acquired
-897,San Diego,software,1,0,acquired
-898,Lisle,software,1,0,acquired
-899,New York,education,1,1,closed
-900,Boulder,advertising,0,0,acquired
-901,Palo Alto,web,1,0,closed
-902,Cupertino,software,0,0,acquired
-903,Santa Clara,semiconductor,0,0,acquired
-904,Houston,other,0,0,closed
-905,San Jose,public_relations,1,0,closed
-906,Santa Clara,semiconductor,0,0,acquired
-907,San Mateo,social,1,0,acquired
-908,San Francisco,cleantech,0,0,acquired
-909,Mountain View,web,0,0,acquired
-910,New York,mobile,0,0,acquired
-911,South San Francisco,biotech,1,0,closed
-912,San Francisco,mobile,0,0,acquired
-913,Houston,web,0,0,closed
-914,New York,games_video,0,0,acquired
-915,Middleton,advertising,0,0,closed
-916,New York,advertising,1,0,acquired
-917,Bothell,mobile,1,0,acquired
-918,San Francisco,advertising,0,0,acquired
-919,Burlington,security,1,0,closed
-920,Sunnyvale,biotech,0,0,closed
-921,San Francisco,software,0,0,acquired
-922,Santa Clara,security,0,0,acquired
-                    
+0,San Diego,music,0,1,1
+1,Los Gatos,enterprise,1,0,1
+2,San Diego,web,0,0,1
+3,Cupertino,software,0,0,1
+4,San Francisco,games_video,1,1,0
+5,Mountain View,network_hosting,0,0,0
+6,Mountain View,software,1,0,1
+7,San Rafael,finance,0,0,1
+8,Williamstown,mobile,1,0,1
+9,Palo Alto,web,1,1,1
+10,Menlo Park,mobile,0,0,1
+11,Menlo Park,web,1,1,0
+12,Louisville,web,1,0,0
+13,Brooklyn,education,0,0,1
+14,Denver,software,0,0,1
+15,Vienna,public_relations,1,0,0
+16,Los Altos,security,1,0,0
+17,Burlingame,games_video,0,0,1
+18,New York,web,0,1,1
+19,Palo Alto,enterprise,0,0,0
+20,Austin,software,0,1,1
+21,Seattle,other,0,0,0
+22,Palo Alto,web,0,0,0
+23,San Francisco,mobile,0,1,0
+24,Boulder,public_relations,0,1,0
+25,Chicago,software,0,0,1
+26,Palo Alto,public_relations,0,0,1
+27,Berkeley,photo_video,0,0,1
+28,Austin,web,1,0,1
+29,Santa Ana,hardware,1,0,1
+30,Moffett Field,other,0,0,0
+31,Seattle,public_relations,1,0,1
+32,Durham,software,0,0,0
+33,San Francisco,mobile,1,0,1
+34,Pittsburgh,security,0,1,0
+35,New York,software,0,0,0
+36,San Francisco,software,0,0,0
+37,San Jose,hardware,0,0,0
+38,San Francisco,ecommerce,0,1,1
+39,New York,advertising,1,1,1
+40,Atlanta,enterprise,0,0,1
+41,Manchester,mobile,0,1,1
+42,Menlo Park,travel,1,0,0
+43,Seattle,enterprise,0,0,1
+44,Sunnyvale,advertising,0,0,1
+45,Sunnyvale,software,0,0,1
+46,New York,fashion,0,1,1
+47,Cambridge,software,0,0,1
+48,San Francisco,software,0,1,1
+49,San Mateo,software,0,0,1
+50,South San Francisco,web,0,0,1
+51,Boston,mobile,0,0,1
+52,Austin,web,0,0,1
+53,Waltham,public_relations,1,0,1
+54,San Francisco,enterprise,1,1,1
+55,Palo Alto,software,1,0,0
+56,Palo Alto,analytics,1,0,1
+57,Aliso Viejo,consulting,0,0,1
+58,Sunnyvale,software,0,0,1
+59,Kansas City,mobile,0,0,1
+60,Wilmington,biotech,0,0,0
+61,San Francisco,cleantech,0,0,0
+62,Kirkland,enterprise,1,0,1
+63,Tampa,software,1,0,0
+64,Boston,software,0,0,1
+65,Alameda,cleantech,0,0,1
+66,Bothell,software,1,0,0
+67,Boulder,advertising,1,0,1
+68,San Mateo,security,0,0,1
+69,San Francisco,advertising,0,1,1
+70,San Francisco,web,0,0,1
+71,Sunnyvale,software,0,1,1
+72,Tampa,web,0,1,1
+73,San Francisco,advertising,0,0,1
+74,Dallas,software,0,0,0
+75,Fremont,software,1,0,0
+76,Santa Clara,software,1,0,0
+77,San Francisco,photo_video,0,1,1
+78,New York,games_video,0,0,1
+79,Cambridge,mobile,1,1,0
+80,San Francisco,mobile,0,1,1
+81,Princeton,cleantech,0,0,0
+82,Loveland,cleantech,1,0,0
+83,Mountain View,search,0,0,1
+84,New York,music,0,0,1
+85,Kearneysville,software,0,0,0
+86,Los Angeles,web,0,0,1
+87,Canton,cleantech,1,0,0
+88,Mountain View,ecommerce,1,0,0
+89,Bellevue,software,0,0,1
+90,Santa Clara,semiconductor,1,0,1
+91,Washington,advertising,1,0,0
+92,San Francisco,web,0,1,1
+93,San Francisco,analytics,0,0,1
+94,New York,finance,0,0,1
+95,Mountain View,public_relations,0,0,0
+96,Chicago,software,1,0,1
+97,Somerset,software,1,0,0
+98,San Francisco,social,0,1,1
+99,Berkeley,cleantech,1,0,0
+100,Alpharetta,software,0,0,0
+101,Seattle,software,0,0,1
+102,Bellevue,software,1,0,1
+103,San Jose,security,1,0,1
+104,San Francisco,web,0,1,1
+105,Charlottesville,web,0,0,0
+106,Dulles,software,1,0,1
+107,Chicago,web,0,1,0
+108,San Francisco,web,0,1,1
+109,Bloomfield,mobile,0,0,0
+110,Santa Monica,web,0,1,1
+111,Santa Clara,network_hosting,0,0,1
+112,Milpitas,semiconductor,0,0,0
+113,Menlo Park,search,0,0,1
+114,San Diego,enterprise,1,1,0
+115,San Francisco,mobile,0,1,1
+116,Burlingame,biotech,0,0,0
+117,Raleigh,network_hosting,1,0,1
+118,New York,ecommerce,0,0,1
+119,New York,web,0,1,1
+120,Somerville,web,0,1,0
+121,Redwood City,ecommerce,0,0,1
+122,Austin,enterprise,0,1,0
+123,New York,photo_video,1,0,1
+124,Fremont,cleantech,1,0,1
+125,Waltham,biotech,0,0,1
+126,Timonium,web,1,0,1
+127,Pittsburgh,advertising,1,1,0
+128,Reston,mobile,1,0,0
+129,Fremont,semiconductor,1,0,1
+130,New York,web,1,0,1
+131,Chicago,games_video,0,1,0
+132,Santa Clara,software,0,0,1
+133,Palo Alto,network_hosting,1,0,1
+134,Cincinnati,web,0,1,0
+135,Atlanta,mobile,1,0,1
+136,San Jose,hardware,0,0,0
+137,Cambridge,biotech,0,0,1
+138,San Mateo,advertising,1,1,1
+139,San Francisco,network_hosting,0,0,0
+140,Campbell,analytics,1,0,1
+141,San Francisco,software,0,0,1
+142,New York,games_video,0,0,0
+143,Santa Clara,mobile,0,0,1
+144,Sterling,web,0,0,1
+145,San Francisco,software,0,0,1
+146,San Francisco,games_video,0,0,1
+147,New York,software,1,0,1
+148,San Mateo,analytics,1,0,1
+149,Foster City,web,0,0,1
+150,Atlanta,semiconductor,1,0,0
+151,Los Angeles,web,0,0,0
+152,Oakland,web,0,1,0
+153,Fremont,mobile,0,0,1
+154,Petaluma,mobile,1,0,0
+155,San Francisco,web,0,1,1
+156,Chicago,software,0,0,1
+157,Boston,web,0,1,1
+158,Sunnyvale,web,0,0,0
+159,Arlington,web,0,1,0
+160,Seattle,network_hosting,0,0,1
+161,Centennial,finance,1,0,0
+162,Chicago,biotech,1,0,0
+163,San Mateo,enterprise,1,0,1
+164,San Jose,software,0,0,0
+165,Austin,network_hosting,0,0,1
+166,San Francisco,advertising,1,0,1
+167,Memphis,web,0,1,0
+168,New York,mobile,1,1,1
+169,Burlingame,games_video,1,0,1
+170,New York,web,1,0,1
+171,New York,social,1,1,0
+172,Cambridge,mobile,0,1,1
+173,Plymouth,medical,1,0,1
+174,San Francisco,software,1,0,1
+175,Austin,enterprise,0,0,0
+176,Seattle,enterprise,1,1,0
+177,San Francisco,photo_video,1,0,0
+178,Conshohocken,ecommerce,1,0,1
+179,Needham,software,0,0,0
+180,Newport Beach,advertising,1,0,0
+181,Austin,web,0,0,1
+182,Longmont,network_hosting,1,0,1
+183,Redwood City,software,0,0,1
+184,New York,mobile,0,1,0
+185,San Francisco,mobile,1,0,0
+186,Naperville,enterprise,0,1,1
+187,Pasadena,web,0,0,1
+188,San Jose,enterprise,1,0,1
+189,San Francisco,automotive,0,0,1
+190,Waltham,software,1,0,1
+191,San Francisco,games_video,0,0,1
+192,Milpitas,software,0,0,0
+193,San Francisco,web,0,0,1
+194,San Francisco,web,0,1,1
+195,San Diego,games_video,0,0,1
+196,Boston,advertising,0,1,1
+197,Mountain View,hardware,0,0,0
+198,Pittsburgh,medical,1,0,0
+199,San Mateo,software,0,0,1
+200,Santa Monica,mobile,0,0,1
+201,Warrenville,web,0,0,0
+202,Raleigh,enterprise,0,0,0
+203,Berwyn,enterprise,0,1,1
+204,Sunnyvale,advertising,0,0,0
+205,San Francisco,web,0,1,1
+206,San Francisco,web,0,1,0
+207,Morgan Hill,public_relations,0,1,0
+208,Mountain View,advertising,1,0,1
+209,Austin,semiconductor,1,0,0
+210,Marlborough,software,0,0,1
+211,San Francisco,advertising,0,1,1
+212,San Francisco,analytics,0,1,1
+213,Atlanta,software,1,1,0
+214,New York,biotech,1,0,0
+215,San Jose,semiconductor,1,0,1
+216,Playa Vista,software,0,0,0
+217,San Francisco,web,0,0,1
+218,Cupertino,messaging,0,0,1
+219,New York,advertising,0,0,1
+220,Providence,advertising,0,1,1
+221,Washington,software,1,0,1
+222,San Francisco,ecommerce,0,0,0
+223,San Francisco,cleantech,0,1,0
+224,San Francisco,enterprise,0,0,0
+225,Seattle,network_hosting,0,1,0
+226,Mountain View,biotech,0,0,1
+227,New York,ecommerce,0,0,1
+228,Redwood City,advertising,1,0,1
+229,Monterey Park,cleantech,0,0,1
+230,Plano,semiconductor,0,0,0
+231,Mountain View,enterprise,0,0,1
+232,Austin,software,0,0,1
+233,Pasadena,software,1,0,1
+234,Fremont,mobile,0,0,1
+235,Bingham Farms,advertising,1,0,0
+236,San Jose,advertising,0,0,1
+237,Chicago,web,1,0,0
+238,New York,web,0,0,1
+239,Philadelphia,advertising,0,1,1
+240,Mountain View,enterprise,1,0,0
+241,Freedom,software,0,0,0
+242,Boston,network_hosting,0,0,0
+243,Cambridge,advertising,0,0,1
+244,San Francisco,network_hosting,0,1,1
+245,Austin,mobile,1,0,0
+246,Seattle,security,0,1,1
+247,Bethesda,enterprise,0,0,1
+248,Portland,enterprise,1,1,1
+249,New York,web,0,1,1
+250,Allentown,cleantech,0,0,0
+251,New York,mobile,1,1,1
+252,North Billerica,semiconductor,1,0,1
+253,Los Angeles,games_video,0,1,0
+254,Denver,mobile,0,0,1
+255,Duluth,biotech,1,0,0
+256,Mountain View,biotech,0,0,1
+257,Providence,enterprise,0,1,1
+258,San Francisco,finance,0,0,0
+259,San Francisco,games_video,0,1,1
+260,Waltham,software,1,0,1
+261,Boxborough,security,0,0,1
+262,Redwood City,public_relations,0,0,0
+263,Salt Lake City,other,1,0,0
+264,The Woodlands,cleantech,0,0,0
+265,Palo Alto,software,0,0,1
+266,Austin,enterprise,0,0,1
+267,Mountain View,search,0,0,1
+268,San Francisco,advertising,0,0,1
+269,San Francisco,mobile,0,0,1
+270,Burlington,software,0,0,0
+271,Seattle,mobile,1,0,1
+272,San Francisco,web,0,1,1
+273,San Francisco,hardware,1,1,1
+274,Alameda,enterprise,1,0,1
+275,Durham,analytics,0,1,0
+276,New York,analytics,0,1,1
+277,Redwood City,biotech,1,0,1
+278,San Mateo,web,0,1,0
+279,Needham,software,1,0,1
+280,Weston,social,0,1,0
+281,Palo Alto,software,0,0,1
+282,San Francisco,advertising,0,0,1
+283,Santa Barbara,games_video,0,1,0
+284,Palo Alto,public_relations,0,1,0
+285,Los Angeles,mobile,1,0,0
+286,Santa Monica,web,0,1,1
+287,Mountain View,web,0,0,1
+288,Santa Clara,hardware,1,0,0
+289,San Francisco,messaging,0,0,1
+290,Mountain View,hardware,1,0,0
+291,Columbia,biotech,0,0,1
+292,Mountain View,games_video,0,0,0
+293,SPOKANE,hardware,1,0,0
+294,Burlington,web,1,0,0
+295,Seattle,software,0,0,0
+296,Cambridge,mobile,1,0,1
+297,Maynard,enterprise,0,0,1
+298,Frederick,public_relations,0,0,0
+299,Fremont,cleantech,0,0,0
+300,Austin,mobile,0,1,0
+301,Sunnyvale,web,0,1,0
+302,New York,games_video,0,1,1
+303,San Francisco,ecommerce,0,0,1
+304,Palo Alto,web,0,0,0
+305,San Diego,mobile,0,0,1
+306,West Newfield,manufacturing,0,0,0
+307,New York,hospitality,0,1,1
+308,San Francisco,news,0,0,1
+309,Long Island City,music,1,0,1
+310,Redwood City,hardware,1,0,1
+311,San Francisco,games_video,0,0,1
+312,San Francisco,search,1,0,1
+313,San Francisco,advertising,0,1,1
+314,Seattle,web,1,0,0
+315,Bellevue,software,0,0,1
+316,NY,web,0,1,0
+317,Menlo Park,mobile,0,0,1
+318,Englewood,security,0,0,1
+319,Solana Beach,games_video,1,0,1
+320,New York,web,0,0,1
+321,San Francisco,finance,0,0,1
+322,NW Atlanta,transportation,1,0,1
+323,San Francisco,sports,0,1,1
+324,San Francisco,finance,1,0,1
+325,Bala Cynwyd,games_video,0,1,0
+326,San Bruno,cleantech,0,0,0
+327,San Francisco,mobile,0,0,0
+328,San Francisco,music,1,1,1
+329,Evanston,software,0,0,0
+330,Mountain View,enterprise,0,0,1
+331,Carlsbad,automotive,1,0,0
+332,San Francisco,real_estate,1,0,1
+333,San Diego,hardware,0,0,0
+334,Cupertino,network_hosting,0,0,1
+335,West Hollywood,web,0,0,1
+336,San Franciso,network_hosting,0,1,0
+337,New York,web,0,1,1
+338,New York,enterprise,1,0,1
+339,San Francisco,advertising,0,0,1
+340,Mountain View,games_video,0,0,1
+341,Burlington,enterprise,0,0,1
+342,Austin,enterprise,1,0,1
+343,San Diego,biotech,1,0,1
+344,Palo Alto,software,0,0,0
+345,New York,web,0,1,0
+346,San Francisco,games_video,1,0,0
+347,New York,web,0,1,0
+348,Santa Monica,network_hosting,0,1,1
+349,Richardson,semiconductor,0,0,1
+350,Zeeland,web,0,1,0
+351,Herndon,mobile,0,1,1
+352,Paramus,biotech,1,0,1
+353,Pittsburgh,enterprise,1,0,0
+354,Palo Alto,advertising,0,0,1
+355,San Francisco,travel,0,1,1
+356,New York,software,1,1,1
+357,Minneapolis,enterprise,0,0,1
+358,Boston,mobile,1,0,1
+359,San Jose,mobile,1,0,1
+360,Durham,software,1,0,1
+361,San Francisco,enterprise,0,0,0
+362,New York,software,0,0,1
+363,San Francisco,mobile,0,1,1
+364,Kirkland,mobile,0,0,1
+365,Addison,security,0,0,1
+366,New York,fashion,0,0,1
+367,Mountain View,advertising,0,0,1
+368,Irvine,social,0,1,1
+369,Woburn,software,0,0,0
+370,New York,enterprise,0,0,1
+371,Burlington,software,0,0,1
+372,Boston,web,0,1,1
+373,New York City,social,0,0,1
+374,Larkspur,mobile,1,0,1
+375,Los Angeles,ecommerce,0,1,0
+376,Seattle,education,1,0,1
+377,San Bruno,hardware,0,0,1
+378,San Francisco,software,0,0,1
+379,Boston,mobile,0,0,1
+380,New York,advertising,1,0,1
+381,Redwood City,network_hosting,0,1,1
+382,San Francisco,web,0,1,1
+383,Irvine,semiconductor,1,0,1
+384,Santa Monica,fashion,1,0,1
+385,New York,advertising,0,1,1
+386,Palo Alto,mobile,0,0,1
+387,Waltham,software,1,0,0
+388,Santa Clara,semiconductor,1,0,0
+389,Waltham,search,0,0,1
+390,Henderson,analytics,1,0,0
+391,Boston,consulting,1,0,1
+392,McLean,software,0,0,1
+393,San Jose,biotech,0,0,1
+394,Santa Clara,software,1,0,1
+395,Palo Alto,web,0,1,1
+396,Santa Clara,software,1,0,1
+397,New York,web,0,0,1
+398,Mountain View,enterprise,0,0,1
+399,Burlingame,network_hosting,1,1,1
+400,Lowell,web,0,0,1
+401,Santa Monica,mobile,0,0,0
+402,Bellevue,software,1,0,0
+403,Woodbury,public_relations,0,0,1
+404,Santa Clara,mobile,1,0,1
+405,San Francisco,software,0,1,1
+406,New York,enterprise,1,0,0
+407,New York,news,1,0,1
+408,Mountain View,security,0,0,1
+409,Littleton,software,1,0,1
+410,Los Angeles,messaging,0,1,0
+411,Glendale,ecommerce,1,0,0
+412,Austin,analytics,0,0,1
+413,Chicago,web,0,0,1
+414,New York,web,0,1,1
+415,San Francisco,games_video,0,1,1
+416,New York,mobile,0,1,1
+417,New York,games_video,0,0,0
+418,San Francisco,security,1,0,1
+419,Billerica,other,0,0,1
+420,San Diego,mobile,1,1,0
+421,New York,software,0,1,1
+422,Seattle,web,1,0,0
+423,Los Gatos,web,0,0,0
+424,Broomfield,software,1,0,1
+425,Foster City,web,0,0,0
+426,Mountain View,mobile,1,1,0
+427,Portland,mobile,0,0,1
+428,New York,advertising,0,0,1
+429,Boston,search,0,0,1
+430,Austin,web,0,0,1
+431,Beverly Hills,web,0,1,0
+432,Hartford,network_hosting,0,0,0
+433,Greenwood Village,software,1,0,1
+434,Seattle,games_video,0,1,0
+435,College Park,biotech,1,0,0
+436,New York,messaging,0,1,1
+437,Los Angeles,fashion,0,0,1
+438,Addison,software,1,0,0
+439,Napa,software,1,0,0
+440,San Francisco,web,0,1,1
+441,New York,network_hosting,1,0,1
+442,San Francisco,network_hosting,0,0,1
+443,Mountain View,web,0,0,1
+444,Itasca,security,1,0,1
+445,Cambridge,ecommerce,1,0,1
+446,Lexington,software,0,0,1
+447,Santa Clara,semiconductor,0,0,1
+448,Waltham,advertising,0,0,1
+449,Irvine,enterprise,1,0,1
+450,Palo Alto,software,1,0,0
+451,Tampa,software,0,0,1
+452,New York,games_video,0,0,1
+453,San Francisco,mobile,1,1,0
+454,Foster City,software,0,0,1
+455,San Francisco,web,0,0,1
+456,New York,advertising,0,1,0
+457,New York,music,0,0,1
+458,Seattle,web,1,0,1
+459,Santa Monica,web,0,0,1
+460,San Francisco,web,0,1,0
+461,Redwood City,mobile,1,0,1
+462,San Mateo,web,0,0,0
+463,San Francisco,software,0,0,1
+464,Austin,hardware,0,0,0
+465,Calabasas,games_video,1,0,1
+466,San Francisco,messaging,0,0,1
+467,New York,mobile,0,1,0
+468,Cincinnati,fashion,0,1,0
+469,North Reading,hardware,0,0,1
+470,Mountain View,web,0,0,1
+471,Cincinnati,advertising,0,0,0
+472,Los Angeles,social,0,0,0
+473,Burlingame,social,1,1,1
+474,San Francisco,enterprise,0,0,1
+475,Boston,web,0,1,1
+476,Richardson,public_relations,0,0,1
+477,Lindon,web,0,0,1
+478,Los Angeles,software,0,0,0
+479,Albuquerque,cleantech,0,0,0
+480,Red Bank,software,0,1,0
+481,Palo Alto,software,0,0,1
+482,Boston,software,0,1,1
+483,Palo Alto,security,0,0,1
+484,Bethlehem,semiconductor,1,0,1
+485,Sunnyvale,mobile,0,0,0
+486,Santa Clara,hardware,0,0,1
+487,Saint Louis,network_hosting,0,1,0
+488,Sunnyvale,web,0,0,1
+489,Palo Alto,web,0,0,0
+490,San Bruno,games_video,0,0,1
+491,New York City,mobile,0,0,0
+492,New York,ecommerce,0,1,0
+493,Austin,search,0,0,0
+494,Brooklyn,web,0,1,0
+495,Philadelphia,biotech,0,1,1
+496,Los Angeles,messaging,0,1,0
+497,Indianapolis,software,1,0,1
+498,Burlington,medical,1,0,1
+499,Palo Alto,games_video,0,1,1
+500,San Mateo,enterprise,1,0,1
+501,Menlo Park,web,1,0,0
+502,New Hope,web,0,0,1
+503,Englewood,web,1,0,1
+504,Los Angeles,software,0,0,0
+505,San Mateo,network_hosting,0,0,0
+506,New York,advertising,0,1,1
+507,Petaluma,semiconductor,1,0,1
+508,Redwood City,mobile,1,0,1
+509,North Hollywood,web,1,0,1
+510,Waco,software,0,1,0
+511,Santa Clara,public_relations,0,0,0
+512,Boulder,network_hosting,0,1,1
+513,New York,web,0,0,1
+514,Carpinteria,advertising,0,0,1
+515,Menlo Park,search,0,0,0
+516,Mountain View,web,1,0,1
+517,Menlo Park,web,0,1,1
+518,Mountain View,advertising,0,0,1
+519,Chicago,ecommerce,0,1,1
+520,New York City,travel,0,1,1
+521,Mountain View,web,1,0,1
+522,West Chester,biotech,1,0,0
+523,San Francisco,software,1,1,1
+524,Nashville,web,0,1,1
+525,Sunnyvale,software,0,0,1
+526,New York,social,0,0,1
+527,Bedford,hardware,0,0,0
+528,Belmont,games_video,0,0,1
+529,Nashville,photo_video,0,0,1
+530,San Francisco,web,0,0,1
+531,Puyallup,advertising,0,1,0
+532,San Mateo,software,0,1,1
+533,San Francisco,software,1,0,1
+534,Boxborough,software,0,0,0
+535,Sunnyvale,hardware,0,0,0
+536,Seattle,web,0,0,0
+537,Santa Monica,games_video,0,0,1
+538,San Mateo,software,0,0,1
+539,San Mateo,software,0,0,1
+540,Santa Clara,games_video,1,0,1
+541,Chevy Chase,software,0,0,1
+542,San Mateo,games_video,0,0,0
+543,Palo Alto,enterprise,0,0,1
+544,Bellevue,games_video,1,0,0
+545,Sunnyvale,network_hosting,0,0,1
+546,Calabasas,semiconductor,1,0,1
+547,San Francisco,analytics,0,1,1
+548,Louisville,software,1,0,1
+549,Woburn,mobile,0,0,1
+550,Menlo Park,biotech,0,0,0
+551,Menlo Park,software,1,0,1
+552,Campbell,web,0,1,1
+553,New York,analytics,0,0,1
+554,Palo Alto,other,0,0,0
+555,Palo Alto,games_video,0,0,1
+556,Boxborough,enterprise,0,0,1
+557,San Francisco,analytics,0,0,1
+558,New York,advertising,0,1,0
+559,Atlanta,software,0,0,1
+560,San Francisco,advertising,0,0,1
+561,San Francisco,advertising,1,0,0
+562,Cambridge,enterprise,0,1,1
+563,San Mateo,web,0,0,0
+564,Mountain View,software,1,0,0
+565,New York,web,0,1,1
+566,Lexington,software,0,1,1
+567,Menlo Park,enterprise,0,0,1
+568,Chantilly,software,0,0,0
+569,Palo Alto,mobile,1,1,0
+570,Waltham,software,0,0,1
+571,Santa Clara,software,1,0,0
+572,Santa Clara,semiconductor,1,0,1
+573,McLean,mobile,1,0,1
+574,Lake Oswego,software,0,0,1
+575,New York,games_video,1,0,1
+576,Allentown,public_relations,0,0,0
+577,Tewksbury,software,0,0,1
+578,Redwood City,advertising,0,0,0
+579,Austin,security,1,0,1
+580,Santa Clara,biotech,0,0,1
+581,Dedham,enterprise,1,0,1
+582,Cupertino,public_relations,0,0,1
+583,Sunnyvale,enterprise,0,0,1
+584,Boston,web,1,0,0
+585,Lawrenceville,ecommerce,0,1,0
+586,Jersey City,ecommerce,0,0,1
+587,NYC,web,0,1,0
+588,Annapolis,network_hosting,0,0,1
+589,Mountain View,search,0,0,0
+590,San Francisco,enterprise,0,0,1
+591,Mountain View,web,1,0,1
+592,Austin,software,0,0,1
+593,San Jose,hardware,1,0,0
+594,Mountain View,mobile,0,0,1
+595,Santa Clara,enterprise,0,0,1
+596,Washington,enterprise,1,0,1
+597,New York,social,0,1,0
+598,Campbell,biotech,0,0,1
+599,Burlington,software,1,0,1
+600,Las Vegas,news,0,1,1
+601,Santa Clara,software,0,0,0
+602,New York,advertising,1,0,1
+603,San Francisco,web,0,1,0
+604,Richardson,public_relations,1,0,1
+605,Sunnyvale,software,1,0,1
+606,Andover,software,1,0,0
+607,Los Altos,web,0,0,1
+608,Minnetonka,web,0,1,1
+609,Mountain View,mobile,0,1,0
+610,Mountain View,web,0,0,1
+611,San Diego,network_hosting,1,0,0
+612,Mountain View,software,1,0,1
+613,New York,photo_video,1,1,0
+614,San Francisco,web,1,1,1
+615,Cupertino,enterprise,0,0,1
+616,Redwood City,enterprise,0,1,1
+617,Los Angeles,search,0,0,0
+618,Vancouver,web,0,1,0
+619,South San Francisco,biotech,0,0,1
+620,Waltham,software,1,0,0
+621,Lexington,public_relations,0,0,1
+622,Pleasanton,biotech,0,0,1
+623,Santa Clara,software,0,0,1
+624,New York,advertising,0,0,1
+625,El Segundo,public_relations,0,0,0
+626,Farmington,messaging,0,0,0
+627,Sunnyvale,hardware,0,0,1
+628,New York,games_video,0,0,1
+629,New York,games_video,0,0,0
+630,San Jose,messaging,0,1,0
+631,New York,fashion,0,0,0
+632,Mountain View,security,0,0,0
+633,San Diego,enterprise,1,0,0
+634,Seattle,ecommerce,0,0,0
+635,San Francisco,software,0,0,0
+636,Austin,semiconductor,0,0,1
+637,Englewood,semiconductor,1,0,0
+638,Los Angeles,games_video,0,0,1
+639,Menlo Park,semiconductor,1,0,0
+640,San Bruno,software,0,0,1
+641,Tampa,software,0,1,0
+642,Marlborough,other,0,0,1
+643,Nashua,software,1,1,0
+644,Mountain View,mobile,0,1,1
+645,Cupertino,public_relations,0,0,1
+646,San Francisco,enterprise,0,1,1
+647,Boulder,enterprise,1,1,1
+648,Seattle,web,0,0,1
+649,San Francisco,web,0,0,1
+650,Saint Paul,medical,1,0,0
+651,Philadelphia,software,1,0,0
+652,Pleasanton,network_hosting,0,0,1
+653,San Diego,web,0,0,1
+654,Burlington,software,1,0,1
+655,Sunnnyvale,biotech,0,0,1
+656,San Mateo,security,0,0,1
+657,San Francisco,advertising,0,0,1
+658,Champaign,social,0,1,0
+659,Santa Clara,other,0,0,0
+660,Golden Valley,enterprise,1,0,0
+661,Pittsboro,biotech,1,0,0
+662,Cambridge,biotech,1,0,1
+663,Seattle,network_hosting,0,0,0
+664,Cambridge,mobile,0,0,1
+665,Burlington,software,0,0,1
+666,Menlo Park,search,0,0,0
+667,San Francisco,web,0,0,1
+668,New York,web,0,1,1
+669,Brisbane,biotech,1,0,1
+670,New York,education,0,1,1
+671,Seattle,mobile,1,0,1
+672,San Francisco,enterprise,0,0,1
+673,Menlo Park,biotech,1,0,0
+674,Westford,software,0,0,1
+675,Raleigh,software,1,0,0
+676,Menlo Park,games_video,0,0,0
+677,Waltham,advertising,0,0,1
+678,Palo Alto,web,1,0,1
+679,San Francisco,public_relations,0,1,0
+680,Billerica,semiconductor,0,0,1
+681,NY,games_video,0,1,1
+682,Chicago,mobile,1,0,0
+683,Woburn,web,0,0,1
+684,Campbell,semiconductor,0,0,1
+685,New York,fashion,0,0,1
+686,San Francisco,hardware,1,0,0
+687,Brooklyn,hardware,1,0,1
+688,New York,advertising,1,0,1
+689,Brooklyn,travel,0,1,1
+690,Chicago,ecommerce,1,1,0
+691,Austin,games_video,1,0,0
+692,San Jose,software,0,0,1
+693,Emeryville,enterprise,1,0,1
+694,San Jose,cleantech,1,0,0
+695,Mountain View,enterprise,0,0,1
+696,San Francisco,social,0,1,1
+697,Austin,software,0,0,0
+698,New York,software,0,1,1
+699,Mountain View,mobile,0,0,1
+700,San Jose,medical,0,0,1
+701,Richardson,software,0,0,0
+702,Washington,social,0,1,0
+703,Waltham,advertising,0,1,0
+704,Fremont,medical,0,0,0
+705,Campbell,advertising,0,0,0
+706,Burlington,software,1,0,0
+707,San Francisco,advertising,0,0,0
+708,Atlanta,cleantech,1,0,1
+709,San Francisco,web,0,0,1
+710,Hollywood,real_estate,0,1,0
+711,Los Angeles,web,0,0,0
+712,Viena,mobile,1,1,0
+713,Austin,cleantech,1,0,0
+714,Campbell,network_hosting,1,0,1
+715,Hillsborough,analytics,0,1,0
+716,Potomac Falls,search,0,1,1
+717,Atlanta,enterprise,1,0,1
+718,San Mateo,enterprise,1,1,0
+719,Santa Barbara,hardware,0,0,0
+720,Austin,health,1,0,1
+721,San Francisco,web,0,0,0
+722,Tempe,advertising,0,0,1
+723,Cambridge,health,1,0,1
+724,Tualatin,semiconductor,0,0,0
+725,Cambridge,biotech,0,0,1
+726,Chicago,software,0,0,1
+727,Milpitas,enterprise,1,0,1
+728,Redwood City,biotech,0,0,1
+729,Mountain View,enterprise,0,1,1
+730,Framingham,security,0,0,1
+731,Rye Brook,ecommerce,1,0,0
+732,Redmond,photo_video,0,0,1
+733,San Mateo,software,0,1,1
+734,Brooklyn,social,0,0,1
+735,Seattle,ecommerce,1,0,0
+736,Yardley,games_video,1,0,0
+737,Mountain View,news,0,1,1
+738,Carlsbad,ecommerce,0,1,0
+739,Santa Monica,enterprise,1,0,1
+740,San Francisco,web,0,1,1
+741,San Francisco,ecommerce,0,0,0
+742,San Rafael,cleantech,0,0,1
+743,Hollywood,real_estate,0,1,0
+744,Berkeley,music,1,1,1
+745,Pasadena,web,1,0,0
+746,New York,travel,0,0,1
+747,San Jose,security,0,0,1
+748,New York,fashion,0,0,0
+749,San Diego,semiconductor,1,0,0
+750,Portland,network_hosting,0,0,1
+751,San Francisco,web,0,1,1
+752,Cambridge,ecommerce,1,1,1
+753,Sunnyvale,software,0,0,1
+754,Kenmore,web,0,1,0
+755,Laguna Niguel,semiconductor,1,0,1
+756,Mountain View,software,0,0,1
+757,Mountain View,software,0,0,0
+758,La Jolla,web,0,1,0
+759,Redwood City,enterprise,0,1,1
+760,Austin,enterprise,0,1,1
+761,San Francisco,mobile,1,0,0
+762,San Francisco,advertising,0,1,1
+763,San Francisco,web,0,1,1
+764,Addison,enterprise,1,0,1
+765,Mountain View,travel,0,1,1
+766,New York,games_video,1,0,1
+767,Pleasanton,games_video,0,0,1
+768,San Diego,biotech,0,0,1
+769,New York,news,0,0,1
+770,New York,web,0,1,1
+771,Cleveland,other,1,0,0
+772,Indianapolis,public_relations,1,0,0
+773,Cambridge,web,1,0,1
+774,Emeryville,analytics,0,0,1
+775,Mountain View,semiconductor,0,0,1
+776,San Francisco,web,0,0,1
+777,San Mateo,advertising,0,0,1
+778,Lancaster,mobile,1,1,0
+779,Seattle,travel,1,0,1
+780,San Jose,hardware,1,0,0
+781,Thousand Oaks,hardware,1,0,1
+782,Provo,enterprise,0,1,0
+783,Palo Alto,other,0,0,0
+784,New York,software,0,1,1
+785,New York,games_video,0,1,0
+786,Los Gatos,semiconductor,1,0,1
+787,Columbus,ecommerce,0,1,0
+788,Pasadena,health,0,1,1
+789,Portland,enterprise,0,0,1
+790,San Francisco,web,0,0,1
+791,Redmond,web,0,1,0
+792,San Francisco,games_video,0,1,0
+793,Foster City,software,0,0,1
+794,San Francisco,advertising,0,1,1
+795,New York,ecommerce,0,0,1
+796,Denver,web,1,0,1
+797,Cupertino,enterprise,0,0,1
+798,Sunnyvale,semiconductor,0,0,1
+799,Mountain View,web,1,0,1
+800,Arcadia,hardware,1,0,1
+801,San Mateo,web,0,0,0
+802,Bellevue,network_hosting,0,0,1
+803,Redwood City,advertising,0,0,0
+804,Brisbane,biotech,1,0,1
+805,New York,games_video,0,0,0
+806,Sunnyvale,software,0,1,1
+807,Palo Alto,software,0,0,1
+808,Yorba Linda,manufacturing,0,0,0
+809,Sunnyvale,software,1,0,1
+810,New York,mobile,1,1,1
+811,Campbell,semiconductor,1,0,1
+812,Palo Alto,transportation,0,0,1
+813,San Carlos,analytics,0,1,1
+814,Los Angeles,games_video,0,1,0
+815,Palo Alto,software,0,1,1
+816,San Francisco,web,0,0,1
+817,San Francisco,cleantech,0,0,1
+818,Seattle,enterprise,0,0,1
+819,Bellevue,mobile,0,0,1
+820,Acton,network_hosting,0,0,1
+821,Dallas,network_hosting,1,0,1
+822,Palo Alto,games_video,0,1,1
+823,Newton,web,0,0,0
+824,Tempe,semiconductor,0,0,0
+825,Sunnyvale,medical,0,0,1
+826,Santa Clara,hardware,0,0,0
+827,Toledo,ecommerce,0,1,0
+828,Seattle,news,1,0,1
+829,Carlsbad,semiconductor,0,0,0
+830,San Francisco,enterprise,0,1,1
+831,New York,enterprise,1,0,0
+832,Fremont,cleantech,1,0,1
+833,Austin,messaging,0,1,1
+834,San Mateo,software,1,0,1
+835,Santa Clara,software,0,0,0
+836,San Mateo,software,0,0,1
+837,San Mateo,software,1,0,0
+838,San Mateo,analytics,0,0,1
+839,Torrance,public_relations,0,1,0
+840,San Francisco,web,1,0,1
+841,Santa Monica,advertising,0,1,1
+842,Altamonte Springs,enterprise,0,1,0
+843,Westport,web,0,1,0
+844,Seattle,enterprise,0,1,1
+845,Palo Alto,web,0,0,1
+846,Seattle,network_hosting,0,0,1
+847,Providence,mobile,0,1,0
+848,New York,enterprise,0,0,1
+849,Chelmsford,network_hosting,1,0,1
+850,San Francisco,news,0,1,1
+851,San Francisco,games_video,0,1,0
+852,Boulder,enterprise,1,0,1
+853,Chicago,travel,1,1,1
+854,San Francisco,messaging,0,1,1
+855,Palo Alto,software,1,0,1
+856,New York,messaging,0,1,1
+857,San Francisco,advertising,0,1,0
+858,Santa Clara,software,0,0,0
+859,Austin,public_relations,0,0,1
+860,"El Segundo,",semiconductor,1,0,1
+861,San Mateo,software,1,0,1
+862,Hampton,semiconductor,0,0,1
+863,Idaho Falls,mobile,0,0,0
+864,San Diego,cleantech,1,0,1
+865,San Francisco,cleantech,0,0,1
+866,Mountain View,advertising,1,0,1
+867,San Francisco,analytics,1,0,1
+868,Burlington,public_relations,1,0,0
+869,Menlo Park,analytics,1,0,1
+870,Acton,mobile,1,0,1
+871,Mountain View,biotech,0,0,1
+872,Campbell,mobile,0,0,1
+873,Campbell,mobile,0,0,1
+874,New York,mobile,1,0,0
+875,Cambridge,analytics,0,1,1
+876,San Jose,hardware,1,0,0
+877,Palo Alto,web,0,1,1
+878,Scotts Valley,semiconductor,1,0,1
+879,La Jolla,mobile,1,0,1
+880,El Segundo,games_video,0,0,1
+881,San Francisco,mobile,0,1,1
+882,Addison,consulting,1,0,0
+883,San Francisco,web,1,0,1
+884,McLean,web,0,0,1
+885,Avon,other,0,0,0
+886,Aliso Viejo,games_video,0,0,1
+887,San Francisco,news,1,0,0
+888,Portland,hardware,0,0,1
+889,Sunnyvale,software,0,0,1
+890,Palo Alto,software,1,0,1
+891,San Francisco,web,0,1,0
+892,Little Rock,software,1,0,0
+893,New York,web,0,0,1
+894,Cambridge,advertising,0,1,1
+895,Waltham,software,1,0,1
+896,New York,games_video,0,1,1
+897,San Diego,software,1,0,1
+898,Lisle,software,1,0,1
+899,New York,education,1,1,0
+900,Boulder,advertising,0,0,1
+901,Palo Alto,web,1,0,0
+902,Cupertino,software,0,0,1
+903,Santa Clara,semiconductor,0,0,1
+904,Houston,other,0,0,0
+905,San Jose,public_relations,1,0,0
+906,Santa Clara,semiconductor,0,0,1
+907,San Mateo,social,1,0,1
+908,San Francisco,cleantech,0,0,1
+909,Mountain View,web,0,0,1
+910,New York,mobile,0,0,1
+911,South San Francisco,biotech,1,0,0
+912,San Francisco,mobile,0,0,1
+913,Houston,web,0,0,0
+914,New York,games_video,0,0,1
+915,Middleton,advertising,0,0,0
+916,New York,advertising,1,0,1
+917,Bothell,mobile,1,0,1
+918,San Francisco,advertising,0,0,1
+919,Burlington,security,1,0,0
+920,Sunnyvale,biotech,0,0,0
+921,San Francisco,software,0,0,1
+922,Santa Clara,security,0,0,1

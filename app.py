@@ -2,12 +2,14 @@ from flask import Flask , render_template , request
 import pickle
 import numpy as np
 import pandas as pd
-from csv import writer
-from sklearn.preprocessing import LabelEncoder
+
 from models_and_datasets.data_science_jobs_analysis import analysisModel
 
 with open(f'models_and_datasets/startup_model.pkl', 'rb') as f:
     model = pickle.load(f)
+
+with open(f'models_and_datasets/training_cols.pkl', 'rb') as f:
+    traincols = pickle.load(f)
 
 app = Flask(__name__)
 
@@ -48,14 +50,16 @@ def result_st():
     else:
         vc = 0
 
-    df = pd.DataFrame([[location, category,vc,angel]],columns=['city', 'category_code', 'has_VC', 'has_angel'])    
-    print(df)
-    
-    label_encoder = LabelEncoder()
-    df['category_code'] = label_encoder.fit_transform(df['category_code'])
-    df['city'] = label_encoder.fit_transform(df['city'])
-    print(df)
-    predicted_y = model.predict(df)
-    return render_template('result_startup.html' , data = predicted_y)
+    df1 = pd.DataFrame([[location, category,vc,angel]],columns=['city', 'category_code', 'has_VC', 'has_angel'])    
+    df1 = pd.get_dummies(df1, columns =['city','category_code','has_VC','has_angel'])
+    testcols = df1.columns
+    missingcols = set(traincols) - set(testcols)
+    a = np.zeros(len(missingcols) ,dtype = int)
+    df2 = pd.DataFrame([a],columns=missingcols)     
+    data = pd.concat([df1, df2], axis=1)
+    data = data[traincols]
+    predicted_y = model.predict(data)
+    return render_template('result_startup.html',data = predicted_y)
+
 if __name__ == "__main__":
     app.run(debug=True)
